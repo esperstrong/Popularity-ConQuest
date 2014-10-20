@@ -1,0 +1,36 @@
+操作説明
+---------------------------
+
+Space/Enter/Z: 決定・会話・探索
+Shift: 押しっぱなしでダッシュ
+X/Esc: キャンセル、メニュー
+
+
+F1: ゲームプロパティ
+F2: FPS表示
+F12: タイトル画面へ戻る
+
+
+
+Button Configurations
+---------------------------
+
+Space/Enter/Z: Confirm, Talk, Examine
+Shift: Hold down to dash
+X/Esc: Cancel, Menu
+
+
+F1: Game Properties
+	The menu is in Japanese, so I'll translate here.
+The 1st tab has 4 options:
+	start-up on fullscreen
+	some graphics option(I don't see any difference)
+	BGM on/off
+	SE on/off
+I suggest you don't change the gamepad (tab 2) or keyboard (tab 3)
+options.
+
+F2: Display FPS
+F12: Return to Title
+
+
