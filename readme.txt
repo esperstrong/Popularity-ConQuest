@@ -1,4 +1,5 @@
-Ever reminisce about those good old high school days? Weren’t they some of the worst you’ve ever experienced? Well after you’ve played this game, you can at least tell yourself that you didn’t have it as bad as the 4 misfit characters did.
+Ever reminisce about those good old high school days? Weren’t they some of the worst you’ve ever experienced? 
+Well after you’ve played this game, you can at least tell yourself that you didn’t have it as bad as the 4 misfit characters did.
 
 Relive the nightmare experience, albeit in top-down RPG form. God knows the real thing isn’t an experience to be repeated.
 
