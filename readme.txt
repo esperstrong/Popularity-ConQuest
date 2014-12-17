@@ -3,7 +3,8 @@ Well after you’ve played this game, you can at least tell yourself that you di
 
 Relive the nightmare experience, albeit in top-down RPG form. God knows the real thing isn’t an experience to be repeated.
 
-Available here: https://skydrive.live.com/?cid=9A32BAB143B51801&id=9A32BAB143B51801%21105
+You will need the RPG Maker VX editor to open the source files, but the game is also available here in a neat little ZIP:
+https://skydrive.live.com/?cid=9A32BAB143B51801&id=9A32BAB143B51801%21105
 
 **Regarding Glitches**
 I think I already dealt with most
